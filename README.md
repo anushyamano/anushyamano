@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushya Manoharan</h1>
-<h3 align="center">An aspiring Data Analyst Enthusiast. Graduated from Amrita School Of Engineering specialized in Aerospace Engineering.</h3>
-<mg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">An aspiring Data Analyst Enthusiast,graduated from Amrita School Of Engineering specialized in Aerospace Engineering. Passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.</h3>
 
 - 🔭 I’m currently working on **Data Analytics projects**
 
