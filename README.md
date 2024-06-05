@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushya Manoharan</h1>
 <h3 align="center">An aspiring Data Analyst Enthusiast. Graduated from Amrita School Of Engineering specialized in Aerospace Engineering.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<mg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Data Analytics projects**
 
